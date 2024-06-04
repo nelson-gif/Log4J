@@ -1,0 +1,20 @@
+20:08:31.976 [main] TRACE com.log4j.ejemploLog4J.App - Mensaje TRACE
+20:08:31.983 [main] DEBUG com.log4j.ejemploLog4J.App - Mensaje DEBUG
+20:08:31.983 [main] INFO  com.log4j.ejemploLog4J.App - Mensaje INFO
+20:08:31.984 [main] WARN  com.log4j.ejemploLog4J.App - Mensaje WARN
+20:08:31.984 [main] ERROR com.log4j.ejemploLog4J.App - Mensaje ERROR
+20:08:31.984 [main] FATAL com.log4j.ejemploLog4J.App - Mensaje FATAL
+20:10:40.818 [main] TRACE com.log4j.ejemploLog4J.App - Mensaje TRACE
+20:10:40.824 [main] DEBUG com.log4j.ejemploLog4J.App - Mensaje DEBUG
+20:10:40.825 [main] INFO  com.log4j.ejemploLog4J.App - Mensaje INFO
+20:10:40.825 [main] WARN  com.log4j.ejemploLog4J.App - Mensaje WARN
+20:10:40.825 [main] ERROR com.log4j.ejemploLog4J.App - Mensaje ERROR
+20:10:40.825 [main] FATAL com.log4j.ejemploLog4J.App - Mensaje FATAL
+20:10:40.903 [main] ERROR com.log4j.ejemploLog4J.App - error en la division: / by zero
+20:11:42.688 [main] TRACE com.log4j.ejemploLog4J.App - Mensaje TRACE
+20:11:42.702 [main] DEBUG com.log4j.ejemploLog4J.App - Mensaje DEBUG
+20:11:42.702 [main] INFO  com.log4j.ejemploLog4J.App - Mensaje INFO
+20:11:42.702 [main] WARN  com.log4j.ejemploLog4J.App - Mensaje WARN
+20:11:42.702 [main] ERROR com.log4j.ejemploLog4J.App - Mensaje ERROR
+20:11:42.703 [main] FATAL com.log4j.ejemploLog4J.App - Mensaje FATAL
+20:11:42.904 [main] ERROR com.log4j.ejemploLog4J.App - error en la division: / by zero
